@@ -13,7 +13,7 @@ func main() {
 	var b float64 = 3.14
 
 	name := "vishal"
-	var n int = 3
+	var n int = 4
 
 	fmt.Println("my age is:", age, "my name is:", name, "pi is", b)
 
